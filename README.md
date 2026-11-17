@@ -16,8 +16,5 @@ Configuration and troubleshooting of a small home network connecting multiple de
 - TCP/IP fundamentals
 - Wi-Fi security (WPA2/WPA3)
 
-## Screenshots
-Add screenshots of your `ipconfig`, `ping`, and `tracert` results to the `screenshots` folder and link them here.
-
 ## Author
 Pranav More
